@@ -2,6 +2,7 @@
 // Licensed under the MIT License.
 
 #pragma once
+#include <cstdint>
 #include <ctime>
 #include <memory>
 #include <string>
